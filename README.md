@@ -2,7 +2,7 @@
 
 ### Data Scientist | Data Analyst
 
-- 🔭 I’m currently working on [MindX School](https://mindx.edu.vn/) as a Data analysis mentor 
+- 🔭 I’m currently working on MindX School as a Data analysis mentor 
 - 🌱 Masters Degree in Data Science and Bachelors Degree in Computer Science
 - 👯 I’m looking to collaborate on data field
 - 🤔 My projects and skills are detailed in [Portfolio](https://portfolio-annguyen96.vercel.app/)
