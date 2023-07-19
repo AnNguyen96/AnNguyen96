@@ -2,7 +2,7 @@
 
 ### Data Scientist | Data Analyst
 
-- 🔭 I’m currently working on MindX School as a Data analysis mentor 
+- 🔭 I'm used to work at MindX School as a Data analysis supporter and Software Developer at Bank 
 - 🌱 Masters Degree in Data Science and Bachelors Degree in Computer Science
 - 👯 I’m looking to collaborate on data field
 - 🤔 My projects and skills are detailed in [Portfolio](https://portfolio-annguyen96.vercel.app/)
