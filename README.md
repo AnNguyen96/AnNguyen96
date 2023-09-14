@@ -6,7 +6,7 @@
 - 🌱 Masters Degree in Data Science and Bachelors Degree in Computer Science
 - 👯 I’m looking to collaborate on data field
 - 🤔 My projects and skills are detailed in [Portfolio](https://portfolio-annguyen96.vercel.app/)
-- 💬 Want to know more about my experience? Touch [my resume](https://drive.google.com/file/d/1KP7ZBKKyL9FSkDNyw-Bbp3lgW-WMAwLk/view)
+- 💬 Want to know more about my experience? Touch [my resume](https://drive.google.com/file/d/1LdyQdynSxvAfmQnf2Rr0t1tWZv-x_Rn9/view)
 - 📫 How to reach me: ngphucan.cse@gmail.com
 
 ### Contact me
